@@ -1,6 +1,10 @@
 # Wordpress_site_script
 Creating wordpress site using Bash Script.
 
+# how to install your script
+-clone the github repository on your machine and use below command
+git clone 
+
 # make the script executable using below command
 chmod +x <Script_file_name.sh>
 
